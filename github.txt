@@ -1,0 +1,10 @@
+TO ACESS REPO PROJECT IN REMOTE DESKTOP
+git init
+git remote add origin "repo us"
+git pull origin master
+
+
+PUSH TO GIT FROM REMOTE DESKTOP
+git add .
+git commit -m "commit"
+git push -u origin master
